@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## How can I edit this code?
@@ -49,3 +50,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+=======
+# Universal-trading-platform
+>>>>>>> 14285a42de63a62b0d4160ee34b939acfde9a7c1
